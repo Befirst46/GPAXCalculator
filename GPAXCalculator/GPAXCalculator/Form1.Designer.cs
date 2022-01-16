@@ -45,7 +45,7 @@
             // 
             // textBoxGPAX
             // 
-            this.textBoxGPAX.Location = new System.Drawing.Point(226, 93);
+            this.textBoxGPAX.Location = new System.Drawing.Point(137, 85);
             this.textBoxGPAX.Name = "textBoxGPAX";
             this.textBoxGPAX.ReadOnly = true;
             this.textBoxGPAX.Size = new System.Drawing.Size(85, 23);
@@ -53,7 +53,7 @@
             // 
             // button1
             // 
-            this.button1.Location = new System.Drawing.Point(331, 44);
+            this.button1.Location = new System.Drawing.Point(272, 43);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(75, 23);
             this.button1.TabIndex = 2;
@@ -81,7 +81,7 @@
             // 
             // button2
             // 
-            this.button2.Location = new System.Drawing.Point(331, 93);
+            this.button2.Location = new System.Drawing.Point(272, 85);
             this.button2.Name = "button2";
             this.button2.Size = new System.Drawing.Size(75, 23);
             this.button2.TabIndex = 5;
@@ -93,7 +93,8 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(483, 280);
+            this.BackColor = System.Drawing.SystemColors.MenuHighlight;
+            this.ClientSize = new System.Drawing.Size(468, 202);
             this.Controls.Add(this.button2);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
@@ -102,6 +103,7 @@
             this.Controls.Add(this.textBoxGPA);
             this.Name = "Form1";
             this.Text = "Form1";
+            this.Load += new System.EventHandler(this.Form1_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 

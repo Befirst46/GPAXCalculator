@@ -26,9 +26,6 @@ namespace GPAXCalculator
         {
             textBoxGPA.Text = "";
             textBoxGPAX.Text = "";
-
             sum = 0;
             n = 0;
         }
-    }
-}
