@@ -1,0 +1,17 @@
+C:\Users\yanas\Documents\GitHub\GPAXCalculator\GPAXCalculator\GPAXCalculator\bin\Debug\net6.0-windows\GPAXCalculator.exe
+C:\Users\yanas\Documents\GitHub\GPAXCalculator\GPAXCalculator\GPAXCalculator\bin\Debug\net6.0-windows\GPAXCalculator.deps.json
+C:\Users\yanas\Documents\GitHub\GPAXCalculator\GPAXCalculator\GPAXCalculator\bin\Debug\net6.0-windows\GPAXCalculator.runtimeconfig.json
+C:\Users\yanas\Documents\GitHub\GPAXCalculator\GPAXCalculator\GPAXCalculator\bin\Debug\net6.0-windows\GPAXCalculator.dll
+C:\Users\yanas\Documents\GitHub\GPAXCalculator\GPAXCalculator\GPAXCalculator\bin\Debug\net6.0-windows\ref\GPAXCalculator.dll
+C:\Users\yanas\Documents\GitHub\GPAXCalculator\GPAXCalculator\GPAXCalculator\bin\Debug\net6.0-windows\GPAXCalculator.pdb
+C:\Users\yanas\Documents\GitHub\GPAXCalculator\GPAXCalculator\GPAXCalculator\obj\Debug\net6.0-windows\GPAXCalculator.csproj.AssemblyReference.cache
+C:\Users\yanas\Documents\GitHub\GPAXCalculator\GPAXCalculator\GPAXCalculator\obj\Debug\net6.0-windows\GPAXCalculator.Form1.resources
+C:\Users\yanas\Documents\GitHub\GPAXCalculator\GPAXCalculator\GPAXCalculator\obj\Debug\net6.0-windows\GPAXCalculator.csproj.GenerateResource.cache
+C:\Users\yanas\Documents\GitHub\GPAXCalculator\GPAXCalculator\GPAXCalculator\obj\Debug\net6.0-windows\GPAXCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yanas\Documents\GitHub\GPAXCalculator\GPAXCalculator\GPAXCalculator\obj\Debug\net6.0-windows\GPAXCalculator.AssemblyInfoInputs.cache
+C:\Users\yanas\Documents\GitHub\GPAXCalculator\GPAXCalculator\GPAXCalculator\obj\Debug\net6.0-windows\GPAXCalculator.AssemblyInfo.cs
+C:\Users\yanas\Documents\GitHub\GPAXCalculator\GPAXCalculator\GPAXCalculator\obj\Debug\net6.0-windows\GPAXCalculator.csproj.CoreCompileInputs.cache
+C:\Users\yanas\Documents\GitHub\GPAXCalculator\GPAXCalculator\GPAXCalculator\obj\Debug\net6.0-windows\GPAXCalculator.dll
+C:\Users\yanas\Documents\GitHub\GPAXCalculator\GPAXCalculator\GPAXCalculator\obj\Debug\net6.0-windows\ref\GPAXCalculator.dll
+C:\Users\yanas\Documents\GitHub\GPAXCalculator\GPAXCalculator\GPAXCalculator\obj\Debug\net6.0-windows\GPAXCalculator.pdb
+C:\Users\yanas\Documents\GitHub\GPAXCalculator\GPAXCalculator\GPAXCalculator\obj\Debug\net6.0-windows\GPAXCalculator.genruntimeconfig.cache
